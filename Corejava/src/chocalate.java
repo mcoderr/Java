@@ -1,8 +1,11 @@
 import desseart.Cookie;
+import desseart.*;
 
-public class chocalate extends Cookie{
+class chocalate extends Cookie{
 	
 	void bar() {
 		
 	}
 }
+
+
