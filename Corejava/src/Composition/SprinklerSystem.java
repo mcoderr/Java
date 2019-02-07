@@ -9,7 +9,7 @@ public class SprinklerSystem {
 	private WaterSource source = new WaterSource();
 	private int i;
 	private float f;
-	public String toString() {
+	public String tostring() {
 
 		return
 				"valve1 = " + valve1 + " " +
